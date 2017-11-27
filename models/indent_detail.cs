@@ -8,7 +8,7 @@ namespace models
 {
     public class indent_detail
     {
-        public int detail { get; set; }
+        public int detail_id { get; set; }
         public int indent_id { get; set; }
         public int goods_id { get; set; }
         public decimal total_price { get; set; }

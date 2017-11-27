@@ -17,6 +17,7 @@ namespace models
         public int col_count { get; set; }
         public int like_count { get; set; }
         public int comt_count { get; set; }
+        public string record_cover { get; set; }
 
     }
 }

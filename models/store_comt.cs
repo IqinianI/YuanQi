@@ -8,7 +8,7 @@ namespace models
 {
     public class store_comt
     {
-        public int stcomt { get; set; }
+        public int stcomt_id { get; set; }
         public string comt_cont { get; set; }
         public DateTime comt_time { get; set; }
         public int user_id { get; set; }

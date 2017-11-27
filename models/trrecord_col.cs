@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace models
 {
-    public class trrecord
+    public class trrecord_col
     {
         public int trcol_id { get; set; }
         public int user_id { get; set; } 

@@ -12,6 +12,7 @@ namespace models
         public int col_count { get; set; }
         public int like_count { get; set; }
         public int album_id { get; set; }
+        public string path { get; set; }
 
     }
 }

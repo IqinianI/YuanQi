@@ -10,7 +10,7 @@ namespace models
     {
         public int riarticlecol_id { get; set; }
         public int user_id { get; set; }
-        public int riarticle { get; set; }
+        public int riarticle_id { get; set; }
         public DateTime col_time { get; set; }
     }
 }
