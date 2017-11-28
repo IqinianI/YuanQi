@@ -12,6 +12,6 @@ namespace models
         public int user_id { get; set; }
         public string indent_state { get; set; }
         public DateTime indent_date { get; set; }
-        public decimal indent_price { get; set; }
+        public float indent_price { get; set; }
     }
 }

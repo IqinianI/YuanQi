@@ -13,7 +13,7 @@ namespace models
         public int reply_aim { get; set; }
         public int user_id { get; set; }
         public DateTime reply_time { get; set; }
-        public string replt_cont { get; set; }
+        public string reply_cont { get; set; }
         public int like_count { get; set; }
     }
 }

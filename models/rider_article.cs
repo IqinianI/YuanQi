@@ -14,5 +14,6 @@ namespace models
         public int col_count { get; set; }
         public int like_count { get; set; }
         public string riarticle_title { get; set; }
+        public string riarticle_cont { get; set; }
     }
 }

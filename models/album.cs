@@ -14,6 +14,5 @@ namespace models
         public string album_intro { get; set; }
         public int photo_amount { get; set; }
         public string photo { get; set; }
-        public string album_name { get; set; }
     }
 }

@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace models
 {
-    public class riar_col
+    public class trrecord
     {
-        public int riarticlecol_id { get; set; }
-        public int user_id { get; set; }
-        public int riarticle_id { get; set; }
+        public int trcol_id { get; set; }
+        public int user_id { get; set; } 
+        public int trrecord_id { get; set; }
         public DateTime col_time { get; set; }
     }
 }

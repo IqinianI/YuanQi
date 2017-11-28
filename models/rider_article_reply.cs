@@ -8,7 +8,7 @@ namespace models
 {
     public class rider_article_reply
     {
-        public int rireply_id  { get; set; }
+        public int rireply_id { get; set; }
         public int reply_aim { get; set; }
         public int ricomt_id { get; set; }
         public int user_id { get; set; }

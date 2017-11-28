@@ -14,5 +14,6 @@ namespace models
         public string con_intro { get; set; }
         public int con_col { get; set; } 
         public string con_title { get; set; }
+        
     }
 }

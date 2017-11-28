@@ -8,7 +8,7 @@ namespace models
 {
     public class activity_sign
     {
-        public int acsign_id { get; set; }
+        public int sign_id { get; set; }
         public int user_id { get; set; }
         public int activity_id { get; set; }
         public DateTime sign_time { get; set; }

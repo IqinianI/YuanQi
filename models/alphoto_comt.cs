@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace models
 {
-    public class alphotos_comt
+    public class alphoto_comt
     {
         public int alphotoscomt_id { get; set; }
         public DateTime comt_time { get; set; }

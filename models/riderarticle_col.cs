@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace models
 {
-    public class alphotos_col
+    public class riderarticle_col
     {
-        public int photoscol_id { get; set; }
-        public int photos_id { get; set; }
+        public int riarticlecol_id { get; set; }
         public int user_id { get; set; }
+        public int riarticle { get; set; }
         public DateTime col_time { get; set; }
-
     }
 }

@@ -14,6 +14,6 @@ namespace models
         public int user_id { get; set; }
         public DateTime reply_time { get; set; }
         public string reply_cont { get; set; }
-        public int like_count { get; set; }
+        public int count { get; set; }
     }
 }

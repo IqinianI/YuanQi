@@ -12,5 +12,6 @@ namespace models
         public int user_id { get; set; } 
         public int trrecord_id { get; set; }
         public DateTime col_time { get; set; }
+        public int col_num { get; set; }
     }
 }

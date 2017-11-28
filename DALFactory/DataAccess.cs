@@ -13,6 +13,6 @@ namespace DALFactory
         private static string AssemblyName = ConfigurationManager.AppSettings["path"].ToString();
         private static string db = ConfigurationManager.AppSettings["DB"].ToString();
 
-        public static 
+        
     }
 }
